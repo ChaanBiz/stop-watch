@@ -31,6 +31,9 @@ body {
                 background-color: transparent;
                 padding: 10px 30px;
             }
+            &:active {
+                background-color: rgb(231, 230, 230);
+            }
         }
     }
 }

@@ -31,5 +31,8 @@ body .btn button:hover {
   background-color: transparent;
   padding: 10px 30px;
 }
+body .btn button:active {
+  background-color: rgb(231, 230, 230);
+}
 
 /*# sourceMappingURL=style.css.map */
