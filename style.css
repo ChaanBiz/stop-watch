@@ -6,4 +6,30 @@
   font-family: "Lato";
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+body h3 {
+  font-size: 40px;
+}
+body h1 {
+  margin: 20px 0;
+}
+body .btn button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin: 0 10px;
+  border-radius: 10px;
+  transition: 0.4s;
+  cursor: pointer;
+}
+body .btn button:hover {
+  background-color: transparent;
+  padding: 10px 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
